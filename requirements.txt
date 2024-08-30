@@ -1,0 +1,2 @@
+streamlit # no need for requests, streamlit does it autimatically
+streamlit_folium
